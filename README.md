@@ -1,5 +1,4 @@
 # Git practice
-# At heehee branch
 
 ## git clone
 - Retrieve file from git repo
@@ -15,3 +14,9 @@
 
 ## git pull
 - fetch, merge changes from the remote repo
+
+
+## git reset
+- reset the local files to the remote repo
+  - git reset --hard HEAD
+
