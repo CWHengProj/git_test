@@ -15,6 +15,8 @@
 ## git pull
 - fetch, merge changes from the remote repo
 
+## git checkout
+- switch branch to the desired branch
 
 ## git reset
 - reset the local files to the remote repo
